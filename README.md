@@ -5,7 +5,7 @@ dispatcher is about 90 lines in `server/jsonrpc.py` and you can read the whole
 protocol in one sitting. That is the point: if you cannot see the wire format,
 you cannot reason about what the agent is allowed to touch.
 
-Live demo: _(deploying)_
+Live demo: https://mcp-baremetal.vercel.app
 
 ## What it exposes
 
